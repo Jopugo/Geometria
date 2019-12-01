@@ -6,7 +6,7 @@
 	<artifactId>Geometria</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Geometría</name>
-	<description>Programa para representar y analizar polígonos usando JavaFX.</description>
+	
 
 	<properties>
 		<maven.compiler.target>11</maven.compiler.target>
